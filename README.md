@@ -36,20 +36,24 @@ Research: `display` property [https://medium.com/@DaphneWatson/css-display-prope
 
 5
 
+Centre the set of three images which are now sitting side by side
+
+6
+
 Remove the default list styling from the list elements in the footer element.
 
 Research: `list-style-type` property [https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type)
 
-6
+7
 
 Arrange is so that each unordered list inside the footer is displayed side by side, rather than on top of each other.
 
-7
+8
 
 For the __first__ element of each list in the footer, assign the CSS property `color: grey;`.
 
 Research: Pseudo selectors [https://developer.mozilla.org/en-US/docs/Web/CSS/:first-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:first-child)
 
-8
+9
 
 Apply a `margin-bottom` property with a value of `20px` to the __first__ element of each list in the footer.
